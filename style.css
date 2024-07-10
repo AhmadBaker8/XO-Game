@@ -1,0 +1,38 @@
+.squares{
+
+
+    width: 80px;
+    height: 80px;
+    background-color: blueviolet;
+    float: left;
+    margin: 2px;
+    font-size: 70px;
+    font-weight: bold;
+    text-align: center;
+
+}
+.game{
+
+    width: 255px;
+    color: red;
+    margin :auto;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+    text-align: center;
+}
+.ttt{
+    background-color: blueviolet;
+    width: 150px;
+    height: 30px;
+    margin: auto;
+    padding: 2px;
+}
+span{
+    color: chartreuse;
+}
+
+#b1{
+
+    width: 50px;
+    background-color: aqua;
+}
